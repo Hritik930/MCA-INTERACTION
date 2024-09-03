@@ -124,7 +124,9 @@ body{
         flex-wrap: wrap;
     }
     .card{
-        width: 90%;
-        margin-left: 50px;
+        width: 100%;
+        /* margin-left: 50px; */
+        position: relative;
+        left: 30px;
     }
 }
